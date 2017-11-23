@@ -1,0 +1,88 @@
+#header{
+	font-family: Monotype Corsiva;
+color: rgb(255, 0, 0);
+word-spacing: 40px;
+}
+
+#data{
+
+	color: #ff0000
+	h1 {
+    color: red;
+    text-align: center;
+}
+
+}
+#personal{
+	color: rgb(0, 0, 255)
+}
+#ho{
+	color: rgb(255, 99, 71)
+}
+#hobby{
+	color:#ffa500
+}
+#data{
+font-family: Verdana;
+
+}
+#col{
+	color: rgb(60, 60, 60);
+}
+
+a:link{
+	color: #111111;
+}
+
+a:visited{
+
+	color: #FAA21A;
+}
+
+a:hover{
+	color: #800000;
+}
+a:active{
+	color: #008000;
+}
+#Harry Potter{
+
+	 font-family:Bernard MT Condensed;
+	 color: Tomato;
+}
+#Harry Potter 2{
+
+	font-family: Forte;
+	color: #3323F5;
+	font-size: 54px;
+
+}
+#Warld War Z{
+
+	font-family: Kunstler Script;
+	color: #c32017;
+	font-size: 54px;
+}#War{
+ 
+     font-family: Ravie;
+     color: #ffa500 
+}
+#Gravity{
+	font-family: Goudy Stout;
+	color: #c32017;
+	font-size: 54px;
+}
+#gravity{
+	font-family:Elephant;
+	color: rgb(255, 255, 255);
+
+}
+#Gladiator{
+	font-family: Lucida Calligraphy;
+	color:hsl(0, 100%, 50%);
+     font-size: 54px;
+     
+}
+#home{
+	font-family: Lucida Console;
+}
